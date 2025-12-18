@@ -1,3 +1,7 @@
+## 💾 Model Weights Download
+이 프로젝트를 실행하려면 학습된 모델 가중치가 필요합니다. 아래 링크에서 다운로드하여 `src/` 또는 코드상의 경로에 위치시키세요.
+* **Download Link:** [https://drive.google.com/file/d/1Vp8Oj6Tcdu-kWxWM-tOA1QeRrCsF9bNu/view?usp=sharing]
+
 # 💊 AI 기반 경구약제 객체 탐지 및 정보 제공 시스템
 ## AI06 3팀 최종 프로젝트 상세 보고서
 
