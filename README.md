@@ -238,7 +238,7 @@ Project_Root/
 │
 ├── AI06_3팀_프로젝트_v9.ipynb          # 전체 파이프라인 실행 노트북 (Main)
 └── requirements.txt                   # 필요 라이브러리 (albumentations, ultralytics 등)
-'''
+```
 
 Copyright © 2025 AI06 Team 3. All Rights Reserved.
 
