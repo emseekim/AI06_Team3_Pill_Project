@@ -243,7 +243,7 @@ Copyright © 2025 AI06 Team 3. All Rights Reserved.
 
 ---
 
-## **프로젝트 협업일지**
+**## 프로젝트 협업일지**
 김재혁: 
 김민주: 
 김민철: 
