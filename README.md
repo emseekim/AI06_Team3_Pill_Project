@@ -1,7 +1,7 @@
 ## 💾 Model Weights Download
 이 프로젝트를 실행하려면 학습된 모델 가중치가 필요합니다. 아래 링크에서 다운로드하여 `src/` 또는 코드상의 경로에 위치시키세요.
 [📄 모델 가중치 다운로드](https://drive.google.com/file/d/1Vp8Oj6Tcdu-kWxWM-tOA1QeRrCsF9bNu/view?usp=sharing)
-* **Download Link:** [https://drive.google.com/file/d/1Vp8Oj6Tcdu-kWxWM-tOA1QeRrCsF9bNu/view?usp=sharing]
+
 
 ## 📂 발표 자료
 프로젝트 발표 자료는 아래 링크를 통해 확인하실 수 있습니다.
@@ -252,7 +252,7 @@ Copyright © 2025 AI06 Team 3. All Rights Reserved.
 ---
 
 ## **프로젝트 협업일지**
-김재혁: [https://band-napkin-cd4.notion.site/2c0ea78d0e4181c498e5c39776c1aac3?v=2c0ea78d0e4181bb8189000c9b991284&source=copy_link]
-김민주: 
-김민철: 
-이승준: 
+- **김재혁**: [📝 협업일지 다운로드](https://band-napkin-cd4.notion.site/2c0ea78d0e4181c498e5c39776c1aac3?v=2c0ea78d0e4181bb8189000c9b991284&source=copy_link)
+- **김민주**: 
+- **김민철**: 
+- **이승준**: 
