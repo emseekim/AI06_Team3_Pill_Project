@@ -253,6 +253,6 @@ Copyright © 2025 AI06 Team 3. All Rights Reserved.
 
 ## **프로젝트 협업일지**
 - **김재혁**: [📝 협업일지 다운로드](https://band-napkin-cd4.notion.site/2c0ea78d0e4181c498e5c39776c1aac3?v=2c0ea78d0e4181bb8189000c9b991284&source=copy_link)
-- **김민주**: 
+- **김민주**: [📝 협업일지 다운로드](https://www.notion.so/2d1fee8daeb7804e94aec58da97d37cf?source=copy_link)
 - **김민철**: [📝 협업일지 다운로드](https://www.notion.so/AI-3-2d1736f39f5080d29f5addc26155a0a4?source=copy_link)
 - **이승준**: [📝 협업일지 다운로드](https://www.notion.so/2d17e5e2c0d78034be61c81cda8d95d5?v=2d17e5e2c0d780aa97fe000c9dc6f225&source=copy_link)
